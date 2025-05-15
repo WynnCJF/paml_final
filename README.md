@@ -2,6 +2,8 @@
 
 A machine learning-based web application for diabetes risk prediction using health indicators.
 
+Deployed app can be viewed here: https://pamlfinalproject-9tkyd4xreun5kii6mr5xhg.streamlit.app
+
 ## Features
 
 - Data exploration and visualization of diabetes health indicators
